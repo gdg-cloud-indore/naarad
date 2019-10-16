@@ -66,4 +66,4 @@ Follow the below guidelines for proper coding practices:
 ## Communication
 All contributors / users are requested to [Whatsapp](https://wa.me/919479756888) for further discussion on ideas, PRs and issues.
 
-Mentor for the project: [Harshit Jain](https://www.github.com/iharshit009/)
+Mentor for the project: [Harshit Jain](https://www.github.com/iharshit009/).
